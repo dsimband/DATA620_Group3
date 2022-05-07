@@ -1,0 +1,303 @@
+﻿id,event_date,fed_rate,action,rate_change,fed_chair,notes
+1,1987-05-19, 0.06500 ,increase,0.00620,Paul Volcker,Continued raising rates to fight inflation
+2,1987-07-07, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+3,1987-08-18, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+4,1987-09-22, 0.07250 ,increase,0.00750,Alan Greenspan,No notable event
+5,1987-11-04, 0.06810 ,decrease,-0.00440,Alan Greenspan,Lowered after Black Monday stock market crash
+6,1987-12-15, 0.06810 ,no change,0.00000,Alan Greenspan,- no change -
+7,1988-02-10, 0.06250 ,decrease,-0.00560,Alan Greenspan,Continued lowering
+8,1988-03-29, 0.06500 ,increase,0.00250,Alan Greenspan,Began raising to fight inflation
+9,1988-05-17, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+10,1988-06-30, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+11,1988-08-16, 0.08130 ,increase,0.01630,Alan Greenspan,No notable event
+12,1988-09-20, 0.08130 ,no change,0.00000,Alan Greenspan,- no change -
+13,1988-11-01, 0.08130 ,no change,0.00000,Alan Greenspan,- no change -
+14,1988-12-14, 0.08380 ,increase,0.00250,Alan Greenspan,No notable event
+15,1989-02-08, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+16,1989-03-28, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+17,1989-05-16, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+18,1989-07-06, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+19,1989-08-22, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+20,1989-10-03, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+21,1989-11-14, 0.08380 ,no change,0.00000,Alan Greenspan,- no change -
+22,1989-12-19, 0.08500 ,increase,0.00120,Alan Greenspan,S&L crisis; The Fed lowered rates to calm markets
+23,1990-02-07, 0.08500 ,no change,0.00000,Alan Greenspan,- no change -
+24,1990-03-27, 0.08500 ,no change,0.00000,Alan Greenspan,- no change -
+25,1990-05-15, 0.08500 ,no change,0.00000,Alan Greenspan,- no change -
+26,1990-07-03, 0.08250 ,decrease,-0.00250,Alan Greenspan,Recession began in July
+27,1990-08-21, 0.08250 ,no change,0.00000,Alan Greenspan,- no change -
+28,1990-10-02, 0.07750 ,decrease,-0.00500,Alan Greenspan,Continued lowering rates to boost economy despite inflation
+29,1990-11-13, 0.07500 ,decrease,-0.00250,Alan Greenspan,No notable event
+30,1990-12-18, 0.07250 ,decrease,-0.00250,Alan Greenspan,Economy contracted 3.6% in Q4
+31,1991-01-09, 0.06750 ,decrease,-0.00500,Alan Greenspan,Economy contracted 1.9%
+32,1991-02-01, 0.06250 ,decrease,-0.00500,Alan Greenspan,No notable event
+33,1991-02-06, 0.06250 ,no change,0.00000,Alan Greenspan,- no change -
+34,1991-03-08, 0.06000 ,decrease,-0.00250,Alan Greenspan,Recession ended
+35,1991-04-30, 0.05750 ,decrease,-0.00250,Alan Greenspan,Conference call
+36,1991-05-14, 0.05750 ,no change,0.00000,Alan Greenspan,- no change -
+37,1991-07-03, 0.05750 ,no change,0.00000,Alan Greenspan,- no change -
+38,1991-08-06, 0.05500 ,decrease,-0.00250,Alan Greenspan,No notable event
+39,1991-08-20, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+40,1991-09-13, 0.05250 ,decrease,-0.00250,Alan Greenspan,Conference call
+41,1991-10-01, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+42,1991-10-31, 0.05000 ,decrease,-0.00250,Alan Greenspan,Conference call
+43,1991-11-06, 0.04750 ,decrease,-0.00250,Alan Greenspan,Fed continued lowering rates to fight unemployment
+44,1991-12-02, 0.04500 ,decrease,-0.00250,Alan Greenspan,No notable event
+45,1991-12-17, 0.04000 ,decrease,-0.00500,Alan Greenspan,No notable event
+46,1992-02-05, 0.04000 ,no change,0.00000,Alan Greenspan,- no change -
+47,1992-03-31, 0.04000 ,no change,0.00000,Alan Greenspan,- no change -
+48,1992-04-09, 0.03750 ,decrease,-0.00250,Alan Greenspan,The Fed lowered rates to fight unemployment
+49,1992-05-19, 0.03750 ,no change,0.00000,Alan Greenspan,- no change -
+50,1992-07-02, 0.03250 ,decrease,-0.00500,Alan Greenspan,No notable event
+51,1992-08-18, 0.03750 ,no change,0.00500,Alan Greenspan,- no change -
+52,1992-09-04, 0.03000 ,decrease,-0.00750,Alan Greenspan,No notable event
+53,1992-10-06, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+54,1992-11-17, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+55,1992-12-22, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+56,1993-02-03, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+57,1993-03-23, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+58,1993-05-18, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+59,1993-07-07, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+60,1993-08-17, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+61,1993-09-21, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+62,1993-11-01, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+63,1993-12-21, 0.03000 ,no change,0.00000,Alan Greenspan,- no change -
+64,1994-02-04, 0.03250 ,increase,0.00250,Alan Greenspan,Fed raised rates to keep economy healthy
+65,1994-03-22, 0.03500 ,increase,0.00250,Alan Greenspan,No notable event
+66,1994-04-18, 0.03750 ,increase,0.00250,Alan Greenspan,Conference call
+67,1994-05-17, 0.04250 ,increase,0.00500,Alan Greenspan,No notable event
+68,1994-07-06, 0.04250 ,no change,0.00000,Alan Greenspan,- no change -
+69,1994-08-16, 0.04750 ,increase,0.00500,Alan Greenspan,No notable event
+70,1994-09-27, 0.04750 ,no change,0.00000,Alan Greenspan,- no change -
+71,1994-11-15, 0.05500 ,increase,0.00750,Alan Greenspan,Raised rates
+72,1994-12-20, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+73,1995-01-31, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+74,1995-02-01, 0.06000 ,increase,0.00500,Alan Greenspan,Raised rates
+75,1995-03-28, 0.06000 ,no change,0.00000,Alan Greenspan,- no change -
+76,1995-05-23, 0.06000 ,no change,0.00000,Alan Greenspan,- no change -
+77,1995-07-06, 0.05750 ,decrease,-0.00250,Alan Greenspan,Lowered rates
+78,1995-08-22, 0.05750 ,no change,0.00000,Alan Greenspan,- no change -
+79,1995-09-26, 0.05750 ,no change,0.00000,Alan Greenspan,- no change -
+80,1995-11-15, 0.05750 ,no change,0.00000,Alan Greenspan,- no change -
+81,1995-12-19, 0.05500 ,decrease,-0.00250,Alan Greenspan,No notable event
+82,1996-01-31, 0.05250 ,decrease,-0.00250,Alan Greenspan,Kept rates low despite inflation
+83,1996-03-26, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+84,1996-05-21, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+85,1996-07-03, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+86,1996-08-20, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+87,1996-09-24, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+88,1996-11-13, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+89,1996-12-17, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+90,1997-02-05, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+91,1997-03-25, 0.05500 ,decrease,0.00250,Alan Greenspan,Raised rates despite low inflation
+92,1997-05-20, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+93,1997-07-02, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+94,1997-08-19, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+95,1997-09-30, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+96,1997-11-12, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+97,1997-12-16, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+98,1998-02-04, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+99,1998-03-31, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+100,1998-05-19, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+101,1998-07-01, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+102,1998-08-18, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+103,1998-09-29, 0.05250 ,decrease,-0.00250,Alan Greenspan,Lowered rates to fight LTCM crisis
+104,1998-10-15, 0.05000 ,decrease,-0.00250,Alan Greenspan,No notable event
+105,1998-11-17, 0.04750 ,decrease,-0.00250,Alan Greenspan,No notable event
+106,1998-12-22, 0.04750 ,no change,0.00000,Alan Greenspan,- no change -
+107,1999-02-03, 0.04750 ,no change,0.00000,Alan Greenspan,- no change -
+108,1999-03-30, 0.04750 ,no change,0.00000,Alan Greenspan,- no change -
+109,1999-05-18, 0.04750 ,no change,0.00000,Alan Greenspan,- no change -
+110,1999-06-30, 0.05000 ,increase,0.00250,Alan Greenspan,Raised rates because economy was doing well
+111,1999-08-24, 0.05250 ,increase,0.00250,Alan Greenspan,No notable event
+112,1999-10-05, 0.05250 ,no change,0.00000,Alan Greenspan,- no change -
+113,1999-11-16, 0.05500 ,increase,0.00250,Alan Greenspan,No notable event
+114,1999-12-21, 0.05500 ,no change,0.00000,Alan Greenspan,- no change -
+115,2000-02-02, 0.05750 ,increase,0.00250,Alan Greenspan,No notable event
+116,2000-03-21, 0.06000 ,increase,0.00250,Alan Greenspan,No notable event
+117,2000-05-16, 0.06500 ,increase,0.00500,Alan Greenspan,Raised rates despite stock market drop
+118,2000-06-28, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+119,2000-08-22, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+120,2000-10-03, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+121,2000-11-15, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+122,2000-12-19, 0.06500 ,no change,0.00000,Alan Greenspan,- no change -
+123,2001-01-03, 0.06000 ,decrease,-0.00500,Alan Greenspan,No notable event
+124,2001-01-31, 0.05500 ,decrease,-0.00500,Alan Greenspan,Bush took office
+125,2001-03-20, 0.05000 ,decrease,-0.00500,Alan Greenspan,Recession
+126,2001-04-18, 0.04500 ,decrease,-0.00500,Alan Greenspan,No notable event
+127,2001-05-15, 0.04000 ,decrease,-0.00500,Alan Greenspan,No notable event
+128,2001-06-27, 0.03750 ,decrease,-0.00250,Alan Greenspan,EGTRRA tax rebate enacted
+129,2001-08-21, 0.03500 ,decrease,-0.00250,Alan Greenspan,No notable event
+130,2001-09-17, 0.03000 ,decrease,-0.00500,Alan Greenspan,9/11 attacks
+131,2001-10-02, 0.02500 ,decrease,-0.00500,Alan Greenspan,Afghanistan War
+132,2001-11-06, 0.02000 ,decrease,-0.00500,Alan Greenspan,Recession ended
+133,2001-12-11, 0.01750 ,decrease,-0.00250,Alan Greenspan,No notable event
+134,2002-01-30, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+135,2002-03-19, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+136,2002-05-07, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+137,2002-06-26, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+138,2002-08-13, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+139,2002-09-24, 0.01750 ,no change,0.00000,Alan Greenspan,- no change -
+140,2002-11-06, 0.01250 ,decrease,-0.00500,Alan Greenspan,The Fed lowered rates to fight sluggish growth
+141,2002-12-10, 0.01250 ,no change,0.00000,Alan Greenspan,- no change -
+142,2003-03-18, 0.01250 ,no change,0.00000,Alan Greenspan,- no change -
+143,2003-03-25, 0.01250 ,no change,0.00000,Alan Greenspan,- no change -
+144,2003-05-06, 0.01250 ,no change,0.00000,Alan Greenspan,- no change -
+145,2003-06-25, 0.01000 ,decrease,-0.00250,Alan Greenspan,JGTRRA tax cuts enacted to spur growth
+146,2003-06-29, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+147,2003-08-12, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+148,2003-09-16, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+149,2003-10-28, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+150,2003-12-09, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+151,2004-01-28, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+152,2004-03-16, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+153,2004-05-04, 0.01000 ,no change,0.00000,Alan Greenspan,- no change -
+154,2004-06-30, 0.01030 ,increase,0.00030,Alan Greenspan,Low rates pushed interest-only loans
+155,2004-08-10, 0.01500 ,increase,0.00470,Alan Greenspan,No notable event
+156,2004-09-21, 0.01750 ,increase,0.00250,Alan Greenspan,No notable event
+157,2004-11-10, 0.02000 ,increase,0.00250,Alan Greenspan,No notable event
+158,2004-12-14, 0.02250 ,increase,0.00250,Alan Greenspan,No notable event
+159,2005-02-02, 0.02500 ,increase,0.00250,Alan Greenspan,No notable event
+160,2005-03-22, 0.02750 ,increase,0.00250,Alan Greenspan,No notable event
+161,2005-05-03, 0.03000 ,increase,0.00250,Alan Greenspan,No notable event
+162,2005-06-30, 0.03250 ,increase,0.00250,Alan Greenspan,No notable event
+163,2005-08-09, 0.03500 ,increase,0.00250,Alan Greenspan,No notable event
+164,2005-09-20, 0.03750 ,increase,0.00250,Alan Greenspan,No notable event
+165,2005-11-01, 0.04000 ,increase,0.00250,Alan Greenspan,No notable event
+166,2005-12-13, 0.04250 ,increase,0.00250,Alan Greenspan,No notable event 
+167,2006-01-31, 0.04500 ,increase,0.00250,Alan Greenspan,Raised to cool housing market bubble
+168,2006-03-28, 0.04750 ,increase,0.00250,Ben Bernanke,Higher rates caused more mortgage defaults
+169,2006-05-10, 0.05000 ,increase,0.00250,Ben Bernanke,No notable event
+170,2006-06-29, 0.05250 ,increase,0.00250,Ben Bernanke,No notable event
+171,2006-08-08, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+172,2006-09-20, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+173,2006-10-25, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+174,2006-12-12, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+175,2007-01-31, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+176,2007-03-21, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+177,2007-05-09, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+178,2007-06-28, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+179,2007-08-07, 0.05250 ,no change,0.00000,Ben Bernanke,- no change -
+180,2007-09-18, 0.04750 ,decrease,-0.00500,Ben Bernanke,Home sales fell
+181,2007-10-31, 0.04500 ,decrease,-0.00250,Ben Bernanke,No notable event
+182,2007-12-11, 0.04250 ,decrease,-0.00250,Ben Bernanke,LIBOR rose; stock market peaked; recession began
+183,2008-01-22, 0.03500 ,decrease,-0.00750,Ben Bernanke,No notable event
+184,2008-01-30, 0.03000 ,decrease,-0.00500,Ben Bernanke,No notable event
+185,2008-03-18, 0.02250 ,decrease,-0.00750,Ben Bernanke,Bear Stearns bailout
+186,2008-04-30, 0.02000 ,decrease,-0.00250,Ben Bernanke,No notable event
+187,2008-06-25, 0.02000 ,no change,0.00000,Ben Bernanke,- no change -
+188,2008-08-05, 0.02000 ,no change,0.00000,Ben Bernanke,- no change -
+189,2008-09-16, 0.02000 ,no change,0.00000,Ben Bernanke,- no change -
+190,2008-10-08, 0.01500 ,decrease,-0.00500,Ben Bernanke,Lehman failed; bank bailout approved
+191,2008-11-29, 0.01000 ,decrease,-0.00500,Ben Bernanke,AIG bailout
+192,2008-12-16, 0.00250 ,increase,-0.00750,Ben Bernanke,Effectively zero
+193,2009-01-28, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+194,2009-03-18, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+195,2009-04-29, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+196,2009-06-24, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+197,2009-08-12, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+198,2009-09-23, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+199,2009-11-04, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+200,2009-12-16, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+201,2010-01-27, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+202,2010-03-16, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+203,2010-04-28, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+204,2010-06-23, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+205,2010-08-10, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+206,2010-09-21, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+207,2010-11-03, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+208,2010-12-14, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+209,2011-01-26, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+210,2011-03-15, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+211,2011-04-27, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+212,2011-06-22, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+213,2011-08-09, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+214,2011-09-21, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+215,2011-11-02, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+216,2011-12-13, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+217,2012-01-25, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+218,2012-03-13, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+219,2012-04-25, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+220,2012-06-20, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+221,2012-08-01, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+222,2012-09-13, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+223,2012-10-24, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+224,2012-12-12, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+225,2013-01-30, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+226,2013-03-20, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+227,2013-05-01, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+228,2013-06-19, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+229,2013-07-31, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+230,2013-09-18, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+231,2013-10-30, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+232,2013-12-18, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+233,2014-01-29, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+234,2014-03-04, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+235,2014-03-19, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+236,2014-04-30, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+237,2014-06-18, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+238,2014-07-30, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+239,2014-09-17, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+240,2014-10-29, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+241,2014-12-17, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+242,2015-01-28, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+243,2015-03-16, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+244,2015-03-18, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+245,2015-04-29, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+246,2015-06-17, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+247,2015-07-29, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+248,2015-09-17, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+249,2015-10-28, 0.00250 ,no change,0.00000,Ben Bernanke,- no change -
+250,2015-12-17, 0.00500 ,increase,0.00250,Janet Yellen,Growth stabilized; Fed began raising rates
+251,2016-01-27, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+252,2016-04-16, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+253,2016-06-15, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+254,2016-07-27, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+255,2016-09-21, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+256,2016-09-21, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+257,2016-11-02, 0.00500 ,no change,0.00000,Janet Yellen,- no change -
+258,2016-12-15, 0.00750 ,increase,0.00250,Janet Yellen,Fed maintained steady increase in rates
+259,2017-02-01, 0.00750 ,no change,0.00000,Janet Yellen,- no change -
+260,2017-03-16, 0.01000 ,increase,0.00250,Janet Yellen,Continued raising rates
+261,2017-05-03, 0.01000 ,no change,0.00000,Janet Yellen,- no change -
+262,2017-06-15, 0.01250 ,increase,0.00250,Janet Yellen,No notable event
+263,2017-07-26, 0.01250 ,no change,0.00000,Janet Yellen,- no change -
+264,2017-09-20, 0.01250 ,no change,0.00000,Janet Yellen,- no change -
+265,2017-11-01, 0.01250 ,no change,0.00000,Janet Yellen,- no change -
+266,2017-12-14, 0.01500 ,increase,0.00250,Janet Yellen,No notable event
+267,2018-01-31, 0.01500 ,no change,0.00000,Janet Yellen,- no change -
+268,2018-03-22, 0.01750 ,increase,0.00250,Jerome Powell,No notable event
+269,2018-05-02, 0.01750 ,no change,0.00000,Jerome Powell,- no change -
+270,2018-06-14, 0.02000 ,increase,0.00250,Jerome Powell,No notable event
+271,2018-08-01, 0.02000 ,no change,0.00000,Jerome Powell,- no change -
+272,2018-09-27, 0.02250 ,increase,0.00250,Jerome Powell,No notable event
+273,2018-11-08, 0.02250 ,no change,0.00000,Jerome Powell,- no change -
+274,2018-12-20, 0.02500 ,increase,0.00250,Jerome Powell,Fed promised to stop raising rates
+275,2019-01-30, 0.02500 ,no change,0.00000,Jerome Powell,- no change -
+276,2019-03-20, 0.02500 ,no change,0.00000,Jerome Powell,- no change -
+277,2019-05-01, 0.02500 ,no change,0.00000,Jerome Powell,- no change -
+278,2019-06-19, 0.02500 ,no change,0.00000,Jerome Powell,- no change -
+279,2019-08-01, 0.02250 ,no change,-0.00250,Jerome Powell,Lowered rates despite growth
+280,2019-09-19, 0.02000 ,decrease,-0.00250,Jerome Powell,Fed was concerned about slowing growth
+281,2019-10-04, 0.02000 ,no change,0.00000,Jerome Powell,- no change -
+282,2019-10-31, 0.01750 ,decrease,-0.00250,Jerome Powell,Slow global growth and muted inflation
+283,2019-12-11, 0.01750 ,no change,0.00000,Jerome Powell,- no change -
+284,2020-01-29, 0.01750 ,no change,0.00000,Jerome Powell,- no change -
+285,2020-03-03, 0.01250 ,decrease,-0.00500,Jerome Powell,Coronavirus pandemic
+286,2020-04-29, 0.00250 ,decrease,-0.01000,Jerome Powell,Effectively zero
+287,2020-06-10, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+288,2020-07-29, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+289,2020-08-27, 0.00250 ,no change,0.00000,Jerome Powell,- no change -
+290,2020-09-16, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+291,2020-11-05, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+292,2020-12-16, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+293,2021-01-27, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+294,2021-03-17, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+295,2021-04-28, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+296,2021-06-16, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+297,2021-07-28, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+298,2021-09-22, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+299,2021-11-04, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+300,2021-12-15, 0.00250 ,no change,0.00000,Jerome Powell,Effectively zero
+301,2022-01-26, 0.00250 ,no change,0.00000,Jerome Powell,Effectively Zero
+302,2022-03-16, 0.00500 ,increase,0.00250,Jerome Powell,Inflation trumped concerns over the Russian invasion of Ukraine
